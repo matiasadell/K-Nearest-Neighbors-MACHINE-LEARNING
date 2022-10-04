@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 14 18:20:58 2019
-
-@author: juangabriel
-"""
-
 # K - Nearest Neighbors (K-NN)
-
 
 # Cómo importar las librerías
 import numpy as np
